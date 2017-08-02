@@ -1,0 +1,1 @@
+This is an app that provides random quotes, which you can tweet on twitter if you so choose. Visit https://adeyinkaadegbenro.github.io/Random_Quote_Machine/ to take a look.

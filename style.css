@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
+
+body {
+  background:#181818;
+}
+
+.container-fluid{
+  background:#181818;
+}
+.well{
+  background:grey;
+}
+.btn{
+  background:#181818;
+  color:white;
+}
+#quote-source{
+  text-align:right;
+  font-style:italic;
+}
+.message{
+  font-family:Old Standard TT;
+     font-size: 48%;
+    font-size: 4.8vw;
+}
+
+#quote-source{  font-family:Courgette,cursive;
+ font-size: 2.5vw;
+  
+}
+
+.ico-twitter{
+  color:#00aced;
+}
+span{
+  font-family:Courgette,cursive;
+  font-size: 2.5vw;
+}
